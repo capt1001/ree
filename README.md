@@ -12,13 +12,13 @@ Block Time : 90 Sec Approx
 
 Block Size : 3MB 
 
-Block Reward: 64 REE increasing to 80 at block 88900
+Block Reward: 40 REE 
  
-Total Coins: 70,000,000
+Total Coins: 4 Billions
 
 Minimum Stake Age : 6 Hour
 
-Coin Maturity : 89 Block
+Coin Maturity : 18 Blocks
 
 RPC Port: 17126
 
