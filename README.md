@@ -1,6 +1,5 @@
 <b>#Ree Coin Specification</b>
 
-
 Type:  POS + MASTERNODE
 Ticker:  REE
 Block time:  90 seconds
