@@ -1,25 +1,17 @@
 <b>#Ree Coin Specification</b>
 
-Coin Name : Ree
 
-Ticker : REE
-
-Coin Type : POS 
-
-Algorithm : Scrypt
-
-Block Time : 90 Sec Approx
-
-Block Size : 3MB 
-
-Block Reward: 40 REE 
- 
-Total Coins: 4 Billions
-
-Minimum Stake Age : 6 Hour
-
-Coin Maturity : 18 Blocks
-
-RPC Port: 17126
-
-Network Port: 17127
+Type:  POS + MASTERNODE
+Ticker:  REE
+Block time:  90 seconds
+Block size:  3 MB
+Block Reward:  40 REE and will be reducing
+Transaction confirmation:  18 blocks
+P2P Port:  32390
+RPC Port:  32391
+Min Stake:  6 hours
+Max Supply:  4 Billions
+Swap Supply:  1.72 Billions aprox. 
+Premined amount:  240 millions (6 % premined)
+Masternode amount:  8 millions
+Governance:  90% masternode 10% POS
